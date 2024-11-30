@@ -42,3 +42,42 @@ Indicates where text, images, and other content will be positioned.
 
 #Functionality:
 Outlines key functionalities and interactions.
+
+## Types of Wireframes
+
+## Low-Fidelity Wireframes
+
+##Overview:
+Low-fidelity wireframes are simple sketches or rough drafts that provide a basic outline of the design. They focus on structure and layout rather than fine details or aesthetics.
+
+Characteristics:
+
+Visual Simplicity: Minimal use of colors, images, or detailed typography; often monochrome.
+Focus on Functionality: Emphasizes layout, content hierarchy, and general navigation.
+Quick to Create: Can be hand-drawn or created using simple tools (e.g., Balsamiq, paper sketches).
+When to Use:
+
+Early Stages of Design: Used to brainstorm ideas and conceptualize the overall structure of a page or feature.
+Gathering Feedback: Ideal for getting initial input from stakeholders without investing too much time in design details.
+Collaborative Discussions: Used in team meetings to align on basic functionality and layout.
+Example: A hand-drawn wireframe of a webpage showing placeholder boxes for the header, content area, and footer.
+
+## High-Fidelity Wireframes
+
+##Overview:
+High-fidelity wireframes are detailed and polished representations of the design. They include precise layouts, typography, colors, and sometimes interactive elements.
+
+Characteristics:
+
+Detailed Design: Incorporates accurate spacing, typography, and component details.
+Visual Accuracy: Uses real or closely representative content, images, and color schemes.
+Interactive Elements: May include clickable elements to simulate user interactions (e.g., in tools like Figma or Adobe XD).
+When to Use:
+
+Later Stages of Design: Used once the basic structure is finalized, and the focus shifts to visual design and functionality.
+Testing and Validation: Ideal for usability testing, where users can interact with a near-final design.
+Developer Handoffs: Provides developers with a detailed visual guide for implementation.
+Example: A digital wireframe created in Figma that displays a fully designed webpage, complete with a navigation bar, images, buttons, and sample text.
+
+Question
+The wireframe type as given in the case study is a high-fidelity wireframe because it is detailed, imcludes precise layouts, typography and colors.
